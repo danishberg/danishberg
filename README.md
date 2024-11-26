@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniyar Kuzekov</h1>
 <h3 align="center">Full Stack Developer with over 3 years of experience specializing in modern web and blockchain. Proficient in Next.js, TypeScript, React.js, and Web3. Developed scalable SaaS applications for high-profile clients.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danishberg&label=Profile%20views&color=0e75b6&style=flat" alt="danishberg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danishberg" alt="danishberg" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
