@@ -47,7 +47,7 @@ I am a **Full Stack Developer** with over **3 years of experience**, specializin
 
 ### Connect With Me
 <div>
-    <a href="https://www.linkedin.com/in/daniyar-kuzekov/">
+    <a href="https://www.linkedin.com/in/daniyarkuzekov/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://medium.com/@danishberg">
