@@ -59,6 +59,6 @@ I am a **Full Stack Developer** with over **3 years of experience**, specializin
 
 ### Employer? 
 > [!IMPORTANT]  
-> <a>Email: daniyarkuzekov@gmail.com</a>
+> <a>Email: iamdanishberg@gmail.com</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="footer"/> 
