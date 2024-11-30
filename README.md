@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=120&section=header&text=&fontColor=FFFFFF" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0e75b6&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniyar+Kuzekov;Full+Stack+Developer+%7C+Blockchain+Expert" alt="Full Stack Developer"/>
