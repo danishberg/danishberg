@@ -41,7 +41,7 @@ I am a **Full Stack Developer** with over **3 years of experience**, specializin
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
   </a>
 </div>
-> Check out my latest posts where I share insights on **blockchain development**, **web optimization**, and other tech innovations.
+> Check out my latest posts where I share insights on Blockchain Development**, Web Optimization**, and other tech innovations.
 
 ---
 
@@ -49,12 +49,6 @@ I am a **Full Stack Developer** with over **3 years of experience**, specializin
 <div>
     <a href="https://www.linkedin.com/in/daniyarkuzekov/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://medium.com/@danishberg">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
-    <a href="https://dev.to/danishberg">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
     </a>
     <a href="https://github.com/danishberg">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
