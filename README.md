@@ -41,7 +41,7 @@ I am a **Full Stack Developer** with over **3 years of experience**, specializin
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
   </a>
 </div>
-> Check out my latest posts where I share insights on Blockchain Development**, Web Optimization**, and other tech innovations.
+> Check out my latest posts where I share insights on Blockchain Development, Web Optimization, and other tech innovations.
 
 ---
 
